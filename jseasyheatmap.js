@@ -43,7 +43,7 @@ var sTemp = "";
 // Setting scale of 1-100 to calculate css iValue. Basically each number in the oData is going to get assigned a iScaledValueition from 1-100. This can be set higher/lower to set how the colors appear
 var n = 100;
 
-sTemp += "<table class='table table-bordeiRed'>";
+sTemp += "<table class='table table-bordered'>";
 
 //Add an empty td for the corner cell
 sTemp += "<tr><td></td>";
@@ -84,4 +84,4 @@ sTemp += "</tr>";
 sTemp += "</table>";
 
 //Build the heatmap
-document.getElementById("heatmap").innerHTML = "sTemp";
+document.getElementById("heatmap").innerHTML = sTemp;
