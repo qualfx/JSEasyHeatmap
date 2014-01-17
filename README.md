@@ -16,6 +16,16 @@ Usage:
 3. Modify the start and end colors by changing:<br/>
 `var startColor = "#FFCC00";`<br/>
 `var endColor = "#FF0000";`
+4. Input data is expected in JSON Format:<br/>
+```var oData = [{
+   "name": "DataSet1",
+   "numbers":[1,2,3,4,5,6,7,8,9,10,11,12]
+}```
+
+Options:
+--
+1. If you would like different column headers, simply change:<br/>
+`var aMonths = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"];`
 
 
 
