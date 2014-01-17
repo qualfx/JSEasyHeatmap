@@ -3,8 +3,7 @@ JSEasyHeatmap
 
 Easy-to-use javascript heatmap plugin. 
 
-Usage:
-==
+
 Dependencies: 
 
 1. Bootstrap (for styling)
