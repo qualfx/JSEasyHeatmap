@@ -27,7 +27,9 @@ Options:
 `var startColor = "#FFCC00";`<br/>
 `var endColor = "#FF0000";`
 
-
+DEMO:
+--
+<a href="http://qualfx.github.io/jseasyheatmap.html">http://qualfx.github.io/jseasyheatmap.html</a>
 
 
 
