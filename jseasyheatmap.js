@@ -84,4 +84,4 @@ sTemp += "</tr>";
 sTemp += "</table>";
 
 //Build the heatmap
-$("#heatmap").html(sTemp);
+document.getElementById("heatmap").innerHTML = "sTemp";
